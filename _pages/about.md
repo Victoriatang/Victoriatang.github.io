@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage of Guofeng Tang"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
