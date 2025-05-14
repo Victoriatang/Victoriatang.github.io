@@ -32,13 +32,10 @@ author:
   email            : "tang.guofeng789@gmail.com" 
 
 
-social_links:
-  - name: Google Scholar
-    url: https://scholar.google.com/citations?user=3BRgfkEAAAAJ&hl=en
     
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  Google Scholar        : "https://scholar.google.com/citations?user=3BRgfkEAAAAJ&hl=en"
   codepen          : # Username
   dribbble         : # Username
   github           : # "Victoriatang"
