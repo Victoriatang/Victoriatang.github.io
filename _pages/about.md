@@ -20,14 +20,19 @@ Experiences
 * Cryptography Researcher at Digital Technologies, [Ant Group](https://www.antgroup.com/en), 2022 - 2024
 * Ph.D in the Institute of Software, Chinese Academy of Sciences, 2016 - 2022
 
-Publications
+Publications 
 ====== 
+<small>\* Corresponding Author</small>
+* **TalonG: Bandwidth-Efficient Two-Round Threshold Signatures from Lattices**
+  * Liming Gao, **Guofeng Tang***, Dingding Jia, Yijian Liu, Bingqian Liu, Xianhui Lu, Kunpeng Wang, Yongjian Yin
+  * EUROCRYPT 2026 [[eprint](https://eprint.iacr.org/2026/303)]
+    
 * **Attribute-Based Conditional PRE: A Novel Construction from LWE for Cloud Data-Sharing**
-  * Lisha Yao, Jian Weng, Pengfei Wu, **Guofeng Tang**, Haiyang Xue, Guoming Yang, Robert Deng
+  * Lisha Yao, Jian Weng, Pengfei Wu, **Guofeng Tang**, Haiyang Xue, Guoming Yang, Robert H. Deng
   * TrustCom 2025 
     
 * **Conditional attribute-based PRE: Definition and construction from LWE**
-  * Lisha Yao, Jian Weng, Pengfei Wu, **Guofeng Tang**, Guomin Yang, Haiyang Xue, and Robert H. Deng
+  * Lisha Yao, Jian Weng, Pengfei Wu, **Guofeng Tang**, Guomin Yang, Haiyang Xue, Robert H. Deng
   * ISC 2025 [[link](https://link.springer.com/chapter/10.1007/978-3-032-08124-7_7)]
     
 * **Robust Threshold ECDSA with Online-Friendly Design in Three Rounds**
@@ -35,7 +40,7 @@ Publications
   * IEEE S&P 2025 [[eprint](https://eprint.iacr.org/2025/910)]
 
 * **Three-Round (Robust) Threshold ECDSA from Threshold CL Encryption**
-  * Bowen Jiang, **Guofeng Tang**, Haiyang Xue
+  * Bowen Jiang, **Guofeng Tang***, Haiyang Xue
   * ACISP 2025 [[link](https://link.springer.com/chapter/10.1007/978-981-96-9095-4_12)]
 
 * **Batch Range Proof: How to Make Threshold ECDSA More Efficient** 
