@@ -22,7 +22,15 @@ Experiences
 
 Publications 
 ====== 
-<small>\* Corresponding Author</small>
+<small>\* Corresponding Author  \# Co-first Author </small>
+* **Two-Party BBS+ Signature in Two Passes**
+  * Xiaofei Wu, Tian Qiu, **Guofeng Tang**, Yuqing	Niu, Bowen Jiang, Jun	Zhou, Haiyang	Xue, Guomin	Yang
+  * ESORICS 2026
+    
+* **Robot: Robust Threshold BBS+ in Two Rounds**
+  * **Guofeng Tang**#, Tian Qiu#, Bowen Jiang, Haiyang Xue, Guomin Yang, Man Ho Au, Robert H. Deng, Kwok-Yan Lam
+  * IEEE S&P 2026
+    
 * **TalonG: Bandwidth-Efficient Two-Round Threshold Signatures from Lattices**
   * Liming Gao, **Guofeng Tang***, Dingding Jia, Yijian Liu, Bingqian Liu, Xianhui Lu, Kunpeng Wang, Yongjian Yin
   * EUROCRYPT 2026 [[eprint](https://eprint.iacr.org/2026/303)]
