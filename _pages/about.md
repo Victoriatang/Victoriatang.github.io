@@ -22,7 +22,9 @@ Experiences
 
 Publications 
 ====== 
-<small>\* Corresponding Author  \# Co-first Author </small>
+<small>\* Corresponding Author </small>
+
+<small>  \# Co-first Author </small>
 * **Two-Party BBS+ Signature in Two Passes**
   * Xiaofei Wu, Tian Qiu, **Guofeng Tang**, Yuqing	Niu, Bowen Jiang, Jun	Zhou, Haiyang	Xue, Guomin	Yang
   * ESORICS 2026
