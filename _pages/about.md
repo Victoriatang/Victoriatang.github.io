@@ -27,11 +27,11 @@ Publications
 <small>  \# Co-first Author </small>
 * **Two-Party BBS+ Signature in Two Passes**
   * Xiaofei Wu, Tian Qiu, **Guofeng Tang**, Yuqing	Niu, Bowen Jiang, Jun	Zhou, Haiyang	Xue, Guomin	Yang
-  * ESORICS 2026
+  * ESORICS 2026 [[eprint](https://eprint.iacr.org/2026/573)]
     
 * **Robot: Robust Threshold BBS+ in Two Rounds**
   * **Guofeng Tang**#, Tian Qiu#, Bowen Jiang, Haiyang Xue, Guomin Yang, Man Ho Au, Robert H. Deng, Kwok-Yan Lam
-  * IEEE S&P 2026
+  * IEEE S&P 2026 [[eprint](https://eprint.iacr.org/2026/651)]
     
 * **TalonG: Bandwidth-Efficient Two-Round Threshold Signatures from Lattices**
   * Liming Gao, **Guofeng Tang***, Dingding Jia, Yijian Liu, Bingqian Liu, Xianhui Lu, Kunpeng Wang, Yongjian Yin
@@ -51,7 +51,7 @@ Publications
 
 * **Three-Round (Robust) Threshold ECDSA from Threshold CL Encryption**
   * Bowen Jiang, **Guofeng Tang***, Haiyang Xue
-  * ACISP 2025 [[link](https://link.springer.com/chapter/10.1007/978-981-96-9095-4_12)]
+  * ACISP 2025 [[eprint](https://eprint.iacr.org/2026/190)]
 
 * **Batch Range Proof: How to Make Threshold ECDSA More Efficient** 
   * **Guofeng Tang**, Shuai Han, Li Lin, Changzheng Wei, Ying Yan
