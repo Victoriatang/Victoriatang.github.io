@@ -20,7 +20,7 @@ Experiences
 * Cryptography Researcher at Digital Technologies, [Ant Group](https://www.antgroup.com/en), 2022 - 2024
 * Ph.D in the Institute of Software, Chinese Academy of Sciences, 2016 - 2022
 
-Publications 
+Selected Publications 
 ====== 
 <small>\* Corresponding Author </small>
 
@@ -35,15 +35,7 @@ Publications
 * **TalonG: Bandwidth-Efficient Two-Round Threshold Signatures from Lattices**
   * Liming Gao, **Guofeng Tang***, Dingding Jia, Yijian Liu, Bingqian Liu, Xianhui Lu, Kunpeng Wang, Yongjian Yin
   * EUROCRYPT 2026 [[eprint](https://eprint.iacr.org/2026/303)]
-    
-* **Attribute-Based Conditional PRE: A Novel Construction from LWE for Cloud Data-Sharing**
-  * Lisha Yao, Jian Weng, Pengfei Wu, **Guofeng Tang**, Haiyang Xue, Guoming Yang, Robert H. Deng
-  * TrustCom 2025 
-    
-* **Conditional attribute-based PRE: Definition and construction from LWE**
-  * Lisha Yao, Jian Weng, Pengfei Wu, **Guofeng Tang**, Guomin Yang, Haiyang Xue, Robert H. Deng
-  * ISC 2025 [[link](https://link.springer.com/chapter/10.1007/978-3-032-08124-7_7)]
-    
+        
 * **Robust Threshold ECDSA with Online-Friendly Design in Three Rounds**
   * **Guofeng Tang**, Haiyang Xue
   * IEEE S&P 2025 [[eprint](https://eprint.iacr.org/2025/910)]
@@ -64,18 +56,8 @@ Publications
   * **Guofeng Tang**, Bo Pang, Long Chen, Zhenfeng Zhang
   * IEEE Transactions on Information Forensics and Security - TIFS, 2023 [[eprint](https://eprint.iacr.org/2024/1067)]
     
-* **Two-Party Signing For ISO/IEC Digital Signature Standards**
-  * **Guofeng Tang**, Zhenfeng Zhang
-  * The Computer Journal, 2022 [[link](https://academic.oup.com/comjnl/article-abstract/66/5/1111/6531895?redirectedFrom=fulltext)]
+[[View Full List](https://victoriatang.github.io/_pages/publications.html)]
 
-* **On Tightly-Secure (Linkable) Ring Signatures**
-  * **Guofeng Tang**
-  * ICICS 2021 [[link](https://link.springer.com/chapter/10.1007/978-3-030-88052-1_22)]
-
-* **Lattice HIBE with Faster Trapdoor Delegation and Applications**
-  * **Guofeng Tang**, Tian Qiu
-  * ICICS 2020 [[link](https://link.springer.com/chapter/10.1007/978-3-030-61078-4_12)]
- 
 Research Competition
 ======
 * iDASH 2023 Secure Genome Analysis Competition
