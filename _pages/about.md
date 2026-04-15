@@ -24,13 +24,12 @@ Publications
 ====== 
 <small>\* Corresponding Author </small>
 
-<small>  \# Co-first Author </small>
 * **Two-Party BBS+ Signature in Two Passes**
   * Xiaofei Wu, Tian Qiu, **Guofeng Tang**, Yuqing	Niu, Bowen Jiang, Jun	Zhou, Haiyang	Xue, Guomin	Yang
   * ESORICS 2026 [[eprint](https://eprint.iacr.org/2026/573)]
     
 * **Robot: Robust Threshold BBS+ in Two Rounds**
-  * **Guofeng Tang**#, Tian Qiu#, Bowen Jiang, Haiyang Xue, Guomin Yang, Man Ho Au, Robert H. Deng, Kwok-Yan Lam
+  * **Guofeng Tang**, Tian Qiu, Bowen Jiang, Haiyang Xue, Guomin Yang, Man Ho Au, Robert H. Deng, Kwok-Yan Lam
   * IEEE S&P 2026 [[eprint](https://eprint.iacr.org/2026/651)]
     
 * **TalonG: Bandwidth-Efficient Two-Round Threshold Signatures from Lattices**
