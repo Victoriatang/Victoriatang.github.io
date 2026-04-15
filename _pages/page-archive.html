@@ -1,11 +1,100 @@
----
-layout: archive
-title: "Page Archive"
-permalink: /page-archive/
-author_profile: false
----
-
-{% include base_path %}
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Publication List - Tian Qiu</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            background: #f7f9fa;
+            color: #222;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background: #fff;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+            border-radius: 12px;
+            padding: 32px 24px 40px 24px;
+        }
+        h1 {
+            color: #2a5d9f;
+            font-size: 2rem;
+            margin-bottom: 18px;
+        }
+        h2 {
+            color: #2a5d9f;
+            font-size: 1.3rem;
+            margin-bottom: 12px;
+            border-left: 4px solid #2a5d9f;
+            padding-left: 10px;
+        }
+        ul, ol {
+            margin: 0 0 0 20px;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 24px;
+            color: #2a5d9f;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-link">&larr; Back to Home</a>
+        <h1>Full List</h1>
+        <h2>All Publications</h2>
+        <ol>
+            <li>
+                <span class="pub-title">Pisces: Private and Compliable Cryptocurrency Exchange</span><br>
+                <span class="pub-authors">with Ya-nan Li, Qiang Tang.</span><br>
+                <span class="pub-venue">NDSS 2024 - The Network and Distributed System Security Symposium (CORE rank A*)</span><br>
+                <a href="https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=gBDIgbsAAAAJ&citation_for_view=gBDIgbsAAAAJ:u-x6o8ySG0sC" target="_blank">Google Scholar</a> |
+                <a href="https://arxiv.org/pdf/2309.01667.pdf" target="_blank">PDF</a>
+            </li>
+            <li>
+                <span class="pub-title">Predicate Aggregate Signatures and Applications</span><br>
+                <span class="pub-authors">with Qiang Tang.</span><br>
+                <span class="pub-venue">AsiaCrypt 2023 - 29th Annual International Conference on the Theory and Application of Cryptology and Information Security (CORE rank A)</span><br>
+                <a href="https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=gBDIgbsAAAAJ&citation_for_view=gBDIgbsAAAAJ:d1gkVwhDpl0C" target="_blank">Google Scholar</a> |
+                <a href="https://eprint.iacr.org/2023/1694.pdf" target="_blank">PDF</a>
+            </li>
+            <li>
+                <span class="pub-title">Lattice HIBE with Faster Trapdoor Delegation and Applications</span><br>
+                <span class="pub-authors">with Guofeng Tang.</span><br>
+                <span class="pub-venue">ICICS 2020 - 22th International Conference on Information and Communications Security</span><br>
+                <a href="https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=gBDIgbsAAAAJ&citation_for_view=gBDIgbsAAAAJ:qjMakFHDy7sC" target="_blank">Google Scholar</a>
+            </li>
+            <li>
+                <span class="pub-title">A Multi-Group Signature Scheme from Lattices</span><br>
+                <span class="pub-authors">with Lin Hou, Dongdai Lin.</span><br>
+                <span class="pub-venue">ICICS 2019 - 21th International Conference on Information and Communications Security</span><br>
+                <a href="https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=gBDIgbsAAAAJ&citation_for_view=gBDIgbsAAAAJ:IjCSPb-OGe4C" target="_blank">Google Scholar</a>
+            </li>
+            <li>
+                <span class="pub-title">Hierarchical Group Signatures with Verifier-Local Revocation</span><br>
+                <span class="pub-authors">with Lin Hou, Renzhang Liu, Dongdai Lin.</span><br>
+                <span class="pub-venue">ICICS 2018 - 20th International Conference on Information and Communications Security</span><br>
+                <a href="https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=gBDIgbsAAAAJ&citation_for_view=gBDIgbsAAAAJ:UeHWp8X0CEIC" target="_blank">Google Scholar</a>
+            </li>
+        </ol>
+        <h2>Manuscripts</h2>
+        <p>All papers listed below have an alphabetical order of authors:</p>
+        <ul>
+            <li><b>Even Small, Cannot Be Ignored: Fair Relay in Anonymous Zether</b><br>
+                <span class="pub-authors">with Qiang Tang, Sri AravindaKrishnan Thyagarajan.</span>
+            </li>
+            <li><b>Charon: Private Cryptocurrencies Trading in Dark Pool</b><br>
+                <span class="pub-authors">with Quanhao Chen, Yanan Li, Qiang Tang.</span>
+            </li>
+        </ul>
+    </div>
+</body>
+</html> 
