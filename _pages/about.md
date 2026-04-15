@@ -82,5 +82,14 @@ Research Competition
   * First Place of Track 1: Secure Relative Detection in (Forensic) Database
 * iDASH 2022 Secure Genome Analysis Competition
   * Third Place of Track 2: Secure Model Evaluation on Homomorphically Encrypted Genotype Data
+ 
+Professional Activities
+======  
+* PC member for conferences: AsiaCCS 2026, ICSS 2026
+* Reviewer for journals: TIFS, TDSC
+* Reviewer for conferences
+  * 2026: CCS, ACISP 
+  * 2025: CCS, Crypto, Inscrypt, ProvSec 
+  * 2024: PKC, ProvSec, Inscrypt 
 
 
