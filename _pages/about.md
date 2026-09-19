@@ -75,7 +75,7 @@ Research Competition
  
 Professional Activities
 ======  
-* PC member for conferences: AsiaCCS 2026, ICSS 2026
+* PC member for conferences: Usenix Security 2027, AsiaCCS 2027, ASSS 2026, ICSS 2026
 * Reviewer for journals: TIFS, TDSC
 * Reviewer for conferences
   * 2026: CCS, ACISP 
