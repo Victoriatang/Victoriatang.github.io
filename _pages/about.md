@@ -24,6 +24,14 @@ Selected Publications
 ====== 
 <small>\* Corresponding Author </small>
 
+* **SoK: Threshold ECDSA from Theory to Practice**
+  * Bowen Jiang, **Guofeng Tang**, Chengru Zhang, Haiyang Xue
+  * IEEE S&P 2027 
+
+* **Towards Practical Iterative Rejection Sampling: A Compact and Efficient Signature over Module Lattices**
+  * Yifan Ming, Jipeng Zhang, Zihan Liu, **Guofeng Tang**, Pengfei Chen, Yutao Sun, Si Gao, Cong Zhang, Long Chen
+  * ASIACRYPT 2026 [[eprint](https://eprint.iacr.org/2026/1991)]
+
 * **Two-Party BBS+ Signature in Two Passes**
   * Xiaofei Wu, Tian Qiu, **Guofeng Tang**, Yuqing	Niu, Bowen Jiang, Jun	Zhou, Haiyang	Xue, Guomin	Yang
   * ESORICS 2026 [[eprint](https://eprint.iacr.org/2026/573)]
